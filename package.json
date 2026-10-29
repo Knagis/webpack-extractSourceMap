@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "source-map-loader": "5.0.0",
-    "webpack": "5.108.4"
+    "webpack": "5.112.2"
   }
 }
