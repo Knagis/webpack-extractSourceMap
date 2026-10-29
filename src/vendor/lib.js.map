@@ -1,0 +1,1 @@
+{"version":3,"file":"lib.js","sources":["lib.ts"],"sourcesContent":["export function greet(name: string): string {\n  return \"Hello, \" + name;\n}\n"],"names":[],"mappings":"AAAA;AACA;AACA"}

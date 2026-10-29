@@ -1,0 +1,12 @@
+{
+  "name": "webpack-extract-source-map-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.js"
+  },
+  "devDependencies": {
+    "source-map-loader": "5.0.0",
+    "webpack": "5.108.4"
+  }
+}
